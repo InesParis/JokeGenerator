@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  margin: auto;
+  padding: 55px;
+}
+button {
+  color: rgb(245, 23, 245);
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  font-family: timew new roman;
+  font-weight: bold;
+}
+button:hover {
+  color: black;
+  background-color: rgb(245, 23, 245);
+}
